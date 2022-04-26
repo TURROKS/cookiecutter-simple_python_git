@@ -1,0 +1,10 @@
+{
+	"project_name": "new project",
+	"project_description": "new desc",
+	"project_version": "0.1.0",
+	"project_status": "Development",
+	"license": "MIT",
+	"project_author": "Mario Rojas",
+	"author_email": "mariro_ch@hotmail.com",
+	"project_slug": "{{cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}"
+}
